@@ -8,7 +8,7 @@ You will be given a random number at the start of the game. Use the crystals to 
 
 Match your points to the random number to win. If you go over, you lose!
 
-![alt text](assets/images/Screen Shot 2019-07-09 at 7.59.12 AM.png "Image 1")
+![alt text](assets/images/Screenshot.png)
 
 ### [Play the Game!](https://ragobash.github.io/unit-4-game/)
 
